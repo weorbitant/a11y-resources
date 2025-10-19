@@ -5,6 +5,7 @@ Welcome to this repository where you'll find examples of components and pages wi
 ## Repository Examples 📂
 
 - [Portfolio](https://github.com/kevinccbsg/a11y-resources/tree/main/portfolio-example): Example of one porfolio with bad a11y practices and the solutions.
+- [2025 talk](https://github.com/kevinccbsg/a11y-resources/tree/main/talk-october-2025): Repository with the content of the web accessibility talk given in October 2025.
 
 ## Docs 📃
 
@@ -14,6 +15,7 @@ Welcome to this repository where you'll find examples of components and pages wi
 - [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/)
 - [The A11Y Project](https://www.a11yproject.com/)
 - [Web.dev - Learn Accessibility](https://web.dev/learn/accessibility)
+- [A11y coffee](https://a11y.coffee/)
 
 ## Blogs 📚
 
@@ -39,18 +41,29 @@ Welcome to this repository where you'll find examples of components and pages wi
 - [NVDA command key quick reference](https://www.nvaccess.org/files/nvdaTracAttachments/455/keycommands%20with%20laptop%20keyboard%20layout.html)
 - [Contrast Checker](https://webaim.org/resources/contrastchecker/)
 - [Jaws](https://www.freedomscientific.com/products/software/jaws/)
+- [Siteimprove Accessibility Checker](https://www.siteimprove.com/why-siteimprove/integrations/browser-extensions/)
 
 ## Youtube channels 🎥
 
+
+- [Accessibility Talks](https://www.youtube.com/@AccessibilityTalks)
 - [Deque](https://www.youtube.com/@DequeSystemsInc)
 - [IAAP](https://www.youtube.com/@UnitedInAccessibility)
-- [A11ycasts with Rob Dodson](https://www.youtube.com/watch?v=HtTyRajRuyY&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
 - [WebAIM - Web Accessibility in Mind](https://www.youtube.com/@WebAccessibilityInMind/featured)
 - [Accessibility Talks](https://www.youtube.com/@AccessibilityTalks)
+- [W3C Web Accessibility Initiative (WAI)](https://www.youtube.com/@w3c-wai/videos)
+- [Web Accessibility Education](https://www.youtube.com/@WebAccessibility)
 - [Equalize Digital](https://www.youtube.com/@EqualizeDigital/featured)
+- [The blind life](https://www.youtube.com/@theblindlife)
+- [A11ycasts with Rob Dodson](https://www.youtube.com/watch?v=HtTyRajRuyY&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
+- [Accessibility Checker](https://www.youtube.com/@AccessibilityChecker-org)
+- [Pope tech](https://www.youtube.com/@popetech)
+- [Silktide](https://www.youtube.com/@silktide/videos)
+- [AccesiBites](https://www.youtube.com/@AccessiBites/featured)
 
 ## Events / Meetups 🌐
 
+- [a11yconf](https://www.a11yconf.com/)
 - [IAAP](https://www.accessibilityassociation.org/s/upcoming-webinars)
 - [Axe-con](https://www.deque.com/axe-con/)
 - [WordPress Accessibility Meetup - Equalized](https://equalizedigital.com/wordpress-accessibility-meetup/)
