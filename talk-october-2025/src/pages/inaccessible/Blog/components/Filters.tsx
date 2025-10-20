@@ -46,7 +46,7 @@ export default function Filters() {
             value={formik.values.category}
             className={`${communInputStyle} ${formik.touched.category && formik.errors.category ? 'border-red-400' : 'border-slate-600'}`}
           >
-            <option value="">All</option>
+            <option value="all">All</option>
             <option value="technology">Technology</option>
             <option value="lifestyle">Lifestyle</option>
             <option value="travel">Travel</option>
